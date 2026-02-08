@@ -18,12 +18,7 @@ C. Models Used and Evaluation Metrics:
 
 The following six machine learning classification models were implemented and evaluated on the same dataset:
 
-Logistic Regression
-Decision Tree Classifier
-K-Nearest Neighbors (KNN)
-Gaussian Naive Bayes
-Random Forest (Ensemble)
-XGBoost (Ensemble)
+Logistic Regression, Decision Tree Classifier, K-Nearest Neighbors (KNN), Gaussian Naive Bayes, Random Forest (Ensemble), XGBoost (Ensemble)
 
 Evaluation Metrics Used:
 
