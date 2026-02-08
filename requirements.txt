@@ -5,6 +5,7 @@ pandas
 matplotlib
 seaborn
 xgboost
-python-3.9.12
+python-3.9
 joblib
+
 
