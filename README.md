@@ -5,13 +5,21 @@ The objective of this project is to build, evaluate, and deploy multiple machine
 B. Dataset Description:
 
 Dataset Name: Breast Cancer Wisconsin (Diagnostic) Dataset
+
 Source: Public dataset (Kaggle - "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data")
+
 Problem Type: Binary Classification
+
 Number of Instances: 569
+
 Number of Features: 30 numerical features
+
 Target Variable: diagnosis
+
 B → Benign (0)
+
 M → Malignant (1)
+
 The dataset contains computed features from digitized images of breast mass cell nuclei. It is widely used for evaluating classification algorithms in medical diagnosis tasks.
 
 C. Models Used and Evaluation Metrics:
